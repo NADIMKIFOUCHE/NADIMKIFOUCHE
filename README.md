@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="mailto:nadim.kifouche@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-1D9E75?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-France-534AB7?style=for-the-badge" />
@@ -27,9 +31,12 @@ class NadimKifouche:
     focus     = ["LLMs", "Agents", "RAG", "AI Systems", "MLOps"]
     stack     = ["Python", "FastAPI", "LangChain", "Docker", "GCP"]
     learning  = ["LangGraph", "Fine-tuning LoRA", "Kubernetes", "Evals"]
-    goal      = "Build production-ready AI systems at scale"
+    goal      = "Build production-ready AI systems that solve real problems"
     status    = "🟢 Available"
 ```
+
+> Ce qui m'intéresse dans l'IA générative, c'est la frontière entre prototype et production.
+> Construire un agent qui fonctionne en démo, c'est facile. Le rendre fiable, observable et scalable — c'est là que ça devient intéressant.
 
 ---
 
@@ -70,13 +77,14 @@ class NadimKifouche:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 CompagnonExpertCloud</h3>
-      <p>Full-stack AI assistant for cloud FinOps on GCP. Multi-agent LLM architecture with intelligent routing, FastAPI backend, React frontend, and Docker Compose orchestration. Integrates BigQuery for real-time cost analysis.</p>
+      <p>Assistant IA full-stack pour le FinOps cloud sur GCP. Architecture multi-agents avec routage intelligent des requêtes, analyse des coûts en temps réel via BigQuery, backend FastAPI et frontend React — le tout orchestré en Docker Compose.</p>
+      <p><b>→ Problème résolu :</b> centraliser l'analyse de coûts GCP dans une interface conversationnelle, sans passer par des dashboards complexes.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
@@ -84,33 +92,36 @@ class NadimKifouche:
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
       </p>
-      <a href="https://github.com/NADIMKIFOUCHE/CompagnonExpertCloud">→ View project</a>
+      <a href="https://github.com/NADIMKIFOUCHE/CompagnonExpertCloud">→ Voir le projet</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🕸️ Systeme Multi-Agent</h3>
-      <p>Exploration of agentic AI systems — multi-agent coordination, task routing, and autonomous decision pipelines with tool-calling capabilities.</p>
+      <h3>🕸️ Système Multi-Agent</h3>
+      <p>Exploration des architectures agentiques : coordination entre agents spécialisés, routage de tâches, pipelines de décision autonome et tool-calling. Focus sur la robustesse et la traçabilité des décisions.</p>
+      <p><b>→ Ce que j'ai appris :</b> la coordination inter-agents est triviale à prototyper, difficile à rendre déterministe.</p>
       <p>
         <img src="https://img.shields.io/badge/Agents-7F77DD?style=flat-square" />
         <img src="https://img.shields.io/badge/LLMs-534AB7?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
       </p>
-      <a href="https://github.com/NADIMKIFOUCHE/Systeme_multi_agent_test">→ View project</a>
+      <a href="https://github.com/NADIMKIFOUCHE/Systeme_multi_agent_test">→ Voir le projet</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Groq Integration</h3>
-      <p>Ultra-fast LLM inference experiments — latency benchmarks, production integration patterns, and performance comparison across models using Groq's API.</p>
+      <p>Benchmarks d'inférence ultra-rapide avec l'API Groq : comparaison de latences entre modèles, patterns d'intégration en production, et exploration des limites pour des usages temps-réel.</p>
+      <p><b>→ Résultat :</b> latences ~10x inférieures à GPT-4 sur des tâches de complétion courte, avec des compromis de qualité mesurés.</p>
       <p>
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
       </p>
-      <a href="https://github.com/NADIMKIFOUCHE/Groq">→ View project</a>
+      <a href="https://github.com/NADIMKIFOUCHE/Groq">→ Voir le projet</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 Coming soon</h3>
-      <p>RAG pipeline with advanced retrieval strategies, reranking, and hybrid search. Fine-tuned model on domain-specific data using LoRA/QLoRA.</p>
+      <h3>🔬 RAG Pipeline — WIP</h3>
+      <p>Pipeline RAG avec stratégies de retrieval avancées : hybrid search (dense + sparse), reranking, et fine-tuning sur données métier avec LoRA/QLoRA. Objectif : dépasser les limites du RAG naïf en production.</p>
+      <p><b>→ Statut :</b> architecture posée, retrieval hybride en cours d'évaluation.</p>
       <p>
         <img src="https://img.shields.io/badge/RAG-1D9E75?style=flat-square" />
         <img src="https://img.shields.io/badge/LoRA-7F77DD?style=flat-square" />
@@ -122,15 +133,15 @@ class NadimKifouche:
 
 ---
 
-## 📍 Learning Roadmap
+## 📍 Roadmap
 
 ```
-✅ Multi-agent systems & LLM orchestration   ████████████████████ 90%
-✅ Full-stack AI application integration      ████████████████░░░░ 85%
-🔄 RAG — Retrieval Augmented Generation      ██████████████░░░░░░ 70%
-🔄 LangGraph & advanced agentic systems      ██████████░░░░░░░░░░ 50%
-⏳ Fine-tuning — LoRA / QLoRA               ██████░░░░░░░░░░░░░░ 30%
-⏳ Kubernetes & MLOps                        ████░░░░░░░░░░░░░░░░ 20%
+✅ Systèmes multi-agents & orchestration LLM    ████████████████████ 90%
+✅ Intégration full-stack d'apps IA             ████████████████░░░░ 85%
+🔄 RAG — Retrieval Augmented Generation         ██████████████░░░░░░ 70%
+🔄 LangGraph & architectures agentiques avancées ██████████░░░░░░░░░░ 50%
+⏳ Fine-tuning — LoRA / QLoRA                   ██████░░░░░░░░░░░░░░ 30%
+⏳ Kubernetes & MLOps                            ████░░░░░░░░░░░░░░░░ 20%
 ```
 
 ---
