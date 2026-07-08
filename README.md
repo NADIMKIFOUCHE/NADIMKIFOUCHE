@@ -30,7 +30,7 @@
 
 ```python
 class NadimKifouche:
-    role      = "Gen AI Engineer"
+    role      = "AI Engineer"
     education = "Master's · AI · Software Engineering"
     focus     = ["LLMs", "Agents", "RAG", "AI Systems", "MLOps"]
     stack     = ["Python", "FastAPI", "LangChain", "Docker", "GCP"]
@@ -39,7 +39,7 @@ class NadimKifouche:
     status    = "🟢 Available"
 ```
 
-> Ce qui m'intéresse dans l'IA générative, c'est la frontière entre prototype et production.
+> Ce qui m'intéresse dans l'IA, c'est la frontière entre prototype et production.
 > Construire un agent qui fonctionne en démo, c'est facile. Le rendre fiable, observable et scalable — c'est là que ça devient intéressant.
 
 ---
