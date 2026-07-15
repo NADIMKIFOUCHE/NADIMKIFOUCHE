@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=210&section=header&text=Nadim%20Kifouche&fontSize=50&fontColor=ffffff&fontAlignY=42" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=640&height=45&lines=AI+Engineer+%C2%B7;From+prototype+to+production;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Observability;Building+reliable%2C+scalable+AI+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=640&height=45&lines=AI+Engineer+%C2%B7+MLOps+%C2%B7+Software+Engineer;From+prototype+to+production;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Observability;Building+reliable%2C+scalable+AI+systems" />
 </a>
 
 <br/>
@@ -169,16 +169,9 @@ class NadimKifouche:
 
 ## 📊 GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=NADIMKIFOUCHE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NADIMKIFOUCHE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=534AB7" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NADIMKIFOUCHE&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=534AB7&fire=7F77DD&currStreakLabel=7F77DD" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADIMKIFOUCHE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&langs_count=8" height="150" />
+<a href="https://github.com/NADIMKIFOUCHE?tab=followers">
+  <img src="https://img.shields.io/github/followers/NADIMKIFOUCHE?style=for-the-badge&logo=github&logoColor=white&color=7F77DD&labelColor=0D1117" />
+</a>
 
 <br/><br/>
 
