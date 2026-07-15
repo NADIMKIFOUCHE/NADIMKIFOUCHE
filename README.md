@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=210&section=header&text=Nadim%20Kifouche&fontSize=50&fontColor=ffffff&fontAlignY=42" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=640&height=45&lines=AI+Engineer+%C2%B7+MLOps+%C2%B7+Software+Engineer;From+prototype+to+production;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Observability;Building+reliable%2C+scalable+AI+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=640&height=45&lines=AI+Engineer+%C2%B7;From+prototype+to+production;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Observability;Building+reliable%2C+scalable+AI+systems" />
 </a>
 
 <br/>
